@@ -4,6 +4,6 @@ scikit-learn
 streamlit
 plotly
 joblib
-duckdb
+duckdb==1.5.6
 motherduck
 pyarrow
